@@ -16,7 +16,7 @@ I am a fullstack software engineer from Hamburg ⚓🚢 (Germany)
 
 ## Expertise
 
- ### 💪 Very Skilled 🚀
+ ###⭐⭐⭐ Very Skilled⭐⭐⭐
 <img align="left" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img align="left" alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -36,7 +36,7 @@ I am a fullstack software engineer from Hamburg ⚓🚢 (Germany)
 <br>
 <br>
 
-### Setup
+### Setup 💻☕🔨
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
