@@ -36,10 +36,13 @@ I am a fullstack software engineer from Hamburg ⚓🚢 (Germany)
 <br>
 
 ### My Favorite Setup 💻☕🔨
-<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-<img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
-<img alt="MacOS" src="https://shields.io/badge/MacOS--9cf?style=for-the-badge&logo=Apple&logoColor=white" />
+<img align="left" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img align="left" alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+<img align="left" alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
+<img align="left" alt="MacOS" src="https://shields.io/badge/MacOS--9cf?style=for-the-badge&logo=Apple&logoColor=white" />
+
+<br>
+<br>
 
 ### Languages 
 <img align="left" alt="German" src="https://img.shields.io/badge/german-gray.svg">
