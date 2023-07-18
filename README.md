@@ -4,7 +4,7 @@ I am a fullstack software engineer from Hamburg ⚓🚢 (Germany)
 
 🔭 Working on multiple frontend and backend projects using Vue.JS and Java
 
-🌱 Still Learning a lot
+🌱 Still learning a lot
 <br>
 
 ### Connect with me 📫
